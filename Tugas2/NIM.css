@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: #FBFAF5;
+}
+
+#b1 {
+    border-radius: 5px;
+    border: 1.5px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#b1:hover {
+    cursor: pointer;
+}
+
+#b2 {
+    border-radius: 5px;
+    border: 1.5px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#b2:hover {
+    cursor: pointer;
+}
+
+#p1 {
+    visibility: hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
